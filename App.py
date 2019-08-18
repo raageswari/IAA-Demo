@@ -1,1 +1,1 @@
-print("This is great app")
+print("This is my great app")
